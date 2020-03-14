@@ -1,0 +1,19 @@
+- title: El Chofotero
+  date: 2020-02-25
+  release_type: Album
+  image: "./images/album-covers/el_chofotero_20200225.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/4ySNUpuRSgVTqG8rCZknTF
+    - name: Apple Music
+      url: https://music.apple.com/us/album/el-chofotero/1500467895
+
+- title: Mis Mejores Tiempos
+  date: 2019-02-02
+  release_type: Album
+  image: "./images/album-covers/mis_mejores_tiempos_2019.jpg"
+  links:
+    - name: Spotify
+      url: https://open.spotify.com/album/4dh5HzZVbUsUCI8gdFtmkv
+    - name: Apple Music
+      url: https://music.apple.com/us/album/llanuras-de-mata-negra/1481541552

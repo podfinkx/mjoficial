@@ -1,0 +1,9 @@
+navigation:
+  - text: Biografia
+    url: "#bio"
+  - text: Lanzamientos
+    url: "#releases"
+  - text: Eventos
+    url: "#shows"
+  - text: Contacto
+    url: "#contact"

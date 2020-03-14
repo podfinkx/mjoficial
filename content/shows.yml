@@ -1,0 +1,13 @@
+#- name: Muy pronto!!
+#  date: "2020-01-01"
+#  location: Gran Caracas
+#  # info_url and map_url are optional
+#  info_url: https://www.instagram.com/${publicacion}
+#  map_url: https://www.google.com/maps/place/${SITIO}
+
+#- name: Feria 2020
+#  date: "2020-01-01"
+#  location: Gran Caracas
+#  # info_url and map_url are optional
+#  info_url: https://www.instagram.com/${publicacion}
+#  map_url: https://www.google.com/maps/place/${SITIO}

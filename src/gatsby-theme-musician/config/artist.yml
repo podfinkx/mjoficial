@@ -1,0 +1,22 @@
+artist:
+  name: Marco Jimenez
+  tagline: Caracas VE
+  # seo_title:
+  # seo_description:
+  # contact_twitter_username:
+  # contact_phone:
+  # contact_email:
+
+social:
+  - name: Instagram
+    url: https://www.instagram.com/marcojimenezoficial
+  - name: Youtube
+    url: https://www.youtube.com/channel/UCB45K-g38KlOpUCMsHxyTkA
+  - name: Spotify
+    url: https://open.spotify.com/artist/6TIFCPphQS7tFRtwIAKzd9
+  - name: Apple
+    url: https://music.apple.com/us/artist/marco-jimenez/id1396675023
+  # - name: Twitter
+  #   url: https://twitter.com
+
+site_language: es
