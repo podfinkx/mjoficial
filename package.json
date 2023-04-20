@@ -24,7 +24,7 @@
     "gatsby-image": "^2.2.43",
     "gatsby-plugin-gtag": "^1.0.13",
     "gatsby-plugin-manifest": "^2.2.47",
-    "gatsby-plugin-sharp": "^2.4.11",
+    "gatsby-plugin-sharp": "^4.25.1",
     "gatsby-source-filesystem": "^2.1.53",
     "gatsby-theme-musician": "^1.0.5",
     "gatsby-transformer-sharp": "^2.3.18",
