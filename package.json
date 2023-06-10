@@ -20,7 +20,7 @@
     "docker:nuke": "docker system prune -a && docker volume prune"
   },
   "dependencies": {
-    "gatsby": "^2.19.39",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.2.43",
     "gatsby-plugin-gtag": "^1.0.13",
     "gatsby-plugin-manifest": "^2.2.47",
